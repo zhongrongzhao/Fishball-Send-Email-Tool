@@ -10,3 +10,4 @@
   https://blog.csdn.net/bawcwchen/article/details/80557442
   
 ### 软件截图
+![image](https://github.com/zhongrongzhao/Fishball-Send-Email-Tool/blob/main/img001.png)
