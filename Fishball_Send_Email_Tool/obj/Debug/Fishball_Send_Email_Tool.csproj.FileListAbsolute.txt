@@ -1,0 +1,14 @@
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\bin\Debug\Fishball_Send_Email_Tool.exe.config
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\bin\Debug\Fishball_Send_Email_Tool.exe
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\bin\Debug\Fishball_Send_Email_Tool.pdb
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.csprojResolveAssemblyReference.cache
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\MainWindow.g.cs
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\App.g.cs
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool_MarkupCompile.cache
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool_MarkupCompile.lref
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\MainWindow.baml
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.g.resources
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.Properties.Resources.resources
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.csproj.GenerateResource.Cache
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.exe
+D:\Test By mine\Fishball_Send_Email_Tool\Fishball_Send_Email_Tool\obj\Debug\Fishball_Send_Email_Tool.pdb
