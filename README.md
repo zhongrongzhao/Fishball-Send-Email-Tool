@@ -7,8 +7,8 @@
 ### 简介：
   一个发送邮件的工具
 ### SMTP服务器地址大全
-     阿里云邮箱（mail.aliyun.com）:
-　　  POP3服务器地址:pop3.aliyun.com（SSL加密端口：995；非加密端口：110）
+     阿里云邮箱（mail.aliyun.com）:  
+　　  POP3服务器地址:pop3.aliyun.com（SSL加密端口：995；非加密端口：110）   
 　　  SMTP服务器地址:smtp.aliyun.com（SSL加密端口：465；非加密端口：25）
 　　  IMAP服务器地址：imap.aliyun.com（SSL加密端口：993；非加密端口：143）
 　　
